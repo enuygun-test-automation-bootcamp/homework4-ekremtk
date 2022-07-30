@@ -24,7 +24,7 @@ Buradaki **list user** kısmını çektim.\
 Bunun için *list user* ifadesinin yanında bulunan **get**'e tıkladıktan sonra api sayfası açılacaktır.  
 
 <figure>
-    <img src="Figures/resreq_get.png" width="500">
+    <img src="Figures/resreq_get.png" width="1500">
     <figcaption>List User.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Daha sonra postman uygulaması açılarak ilk API eklenir.
 Mavi kutu içindeki *Send* ifadesine tıklanıldığı zaman bu istek gönderilir ve sonuç ekrana döndürülür.
 
 <figure>
-    <img src="Figures/requestResponse.png" width="3000">
+    <img src="Figures/requestResponse.png" width="1500">
     <figcaption>Request Response</figcaption>
 </figure>
 
